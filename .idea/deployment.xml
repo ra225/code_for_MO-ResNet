@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="n504_left" showAutoUploadSettingsWarning="false">
+    <serverData>
+      <paths name="n504_left">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/n504/ENAS_6379" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="n504_middle">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/n504/MO_cifar100_0.0loss" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="n504_right">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/n504/MO_cifar100_0.0loss" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="new_env">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/n504/BenchENAS_linux_platform" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@172.24.19.19:10000">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
